@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gHkWIPtXNDWT5Aka4eHvIgayzAJhmfOyOUqvPN/jZZU=",
+  "Hash": "Tq10TX5CENd2UbB/CKGsV83RMaKkAGsj29oVuF/W/Bc=",
   "Source": "BookingSystem",
   "BasePath": "_content/BookingSystem",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BookingSystem\\wwwroot",
       "Source": "BookingSystem",
-      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\wwwroot\\",
       "BasePath": "_content/BookingSystem",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookingSystem.styles.css",
+      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookingSystem.styles.css",
       "SourceId": "BookingSystem",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "BookingSystem.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookingSystem.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookingSystem.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingSystem.bundle.scp.css",
+      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingSystem.bundle.scp.css",
       "SourceId": "BookingSystem",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "BookingSystem.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingSystem.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingSystem.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\wwwroot\\app.css",
       "SourceId": "BookingSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\wwwroot\\",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BookingSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\wwwroot\\",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BookingSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\wwwroot\\",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\wwwroot\\favicon.png",
       "SourceId": "BookingSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Harry-Do\\source\\repos\\BlazingPizza\\BookingSystem\\wwwroot\\",
       "BasePath": "_content/BookingSystem",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
