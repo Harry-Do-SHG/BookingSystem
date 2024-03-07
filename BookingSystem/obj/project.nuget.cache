@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zvUXMipZkzwRphChfCXVY0WBh0BWzyOLTlAY4bUAJ8LNuuWix6yGK5HO994+CAzd4wtX/5qK2Ox/3BNYkRaBBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harry-Do\\source\\repos\\BookingSystem\\BookingSystem\\BookingSystem.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devintranet/NuGetFeed/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

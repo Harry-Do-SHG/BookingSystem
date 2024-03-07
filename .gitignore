@@ -1,0 +1,19 @@
+# .NET Core
+project.lock.json
+.project.json
+*.suo
+*.user
+*.userosscache
+*.asax.resx
+*.resources
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
