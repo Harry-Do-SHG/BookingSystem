@@ -17,3 +17,6 @@ project.lock.json
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+/BookingSystem/obj
+/BookingSystem/obj/Debug/net8.0/ref
+BookingSystem/obj/Debug/net8.0/ref/BookingSystem.dll
